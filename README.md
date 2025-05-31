@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20[Your%20Name]!👋&fontSize=60&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20 Gokulnath!👋&fontSize=60&fontAlignY=35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F779A1&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+PHP;Digital+Marketing+Expert;Let’s+Build+Something+Awesome!" />
